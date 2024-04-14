@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -File "C:\path\script.ps1"
+powershell -ExecutionPolicy Bypass -File "C:\path\CheckWindowsUpdates.ps1"
